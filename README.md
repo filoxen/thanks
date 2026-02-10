@@ -35,5 +35,4 @@ Filoxen's Roblox work wouldn't be possible without groups like [Rchive](https://
 ## General Development Tools
 
 - [Zed](https://github.com/zed-industries/zed) is an editor that rivals or beats the other big editors in many ways. The Roblox interfacing is still early but it works well with Rojo, luau-lsp, and other tools that we need.
-- 
 
